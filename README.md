@@ -43,7 +43,6 @@ Com ela foi meu primeiro passo a conhecer esse Framework para criaçao de págin
 <div align="center">
   <img width="677" height="1439"  alt="gif-capitura"  src="src/assets/_readme/CapituraTela.gif" />
 </div>
-<img width="677" height="1439" alt="image" src="https://github.com/user-attachments/assets/f1146139-6586-4586-8555-2154d4b382de" />
 
 
 
