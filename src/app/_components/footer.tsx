@@ -48,7 +48,7 @@ export function Footer() {
           </div>
         </div>
         <footer className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12 mt-5">
-          <div className="text-lg flex flex-col gap-3 justify-center lg:justify-start">
+          <div className="text-lg flex flex-col gap-3 items-center lg:items-start">
             <h3 className="text-3xl font-semibold mb-2">Pet Shop Dev</h3>
             <p className="text-2xl mb-4 ">
               Cuidado do seu melhor amigo com amor e dedicação{" "}
