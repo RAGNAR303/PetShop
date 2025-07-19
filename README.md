@@ -41,7 +41,7 @@ Com ela foi meu primeiro passo a conhecer esse Framework para criaçao de págin
 <h1> Versão Mobile </h1>
 <img width="677" height="1439" alt="image" src="https://github.com/user-attachments/assets/c1397449-2d02-409b-a0b7-f3715038399c" />
 <div align="center">
-  <img   alt="gif-capitura"  src="Petshop/assets/_readme/" />
+  <img   alt="gif-capitura"  src="Petshop/assets/_readme/CapituraTela.gif" />
 </div>
 
 
