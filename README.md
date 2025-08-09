@@ -1,6 +1,6 @@
 
 
-Pet Shop
+<h1>Pet Shop</h1>
 <br>
 <br>
 Página de um hotel para cachorro, feita com video do canal Sujeito Programador, onde ele ensinou a fazer com NextJs e Tailwind.
