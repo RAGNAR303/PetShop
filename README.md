@@ -9,7 +9,7 @@ Esse projeto foi meu primeiro passo para conhecer Next.js e construir páginas r
 - Servir como site institucional para um pet shop / hotel para cães, com páginas como “Home”, “Sobre”, “Serviços & Depoimentos”, “Contato”.  
 - Ser responsivo para mobile.  
 - Funcionar como um estudo prático para consolidar conhecimentos em Next.js, TypeScript e Tailwind CSS.  
-- Projeto de aprendizagem — não um sistema com backend complexo (não vi partes de API, login etc).
+- Projeto de aprendizagem — não um sistema com backend complexo.
 
 ## 🧰 Tecnologias utilizadas  
 - **Next.js** — framework React para aplicações web (site híbrido SSG/SSR) :contentReference[oaicite:0]{index=0}  
